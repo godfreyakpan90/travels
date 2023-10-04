@@ -16,10 +16,10 @@
 }
 
 .meks_ess .socicon-twitter {
-	background: #4da7de;
+	background: #222222;
 }
 .meks_ess .socicon-twitter:before {
-	content: "\e08d"
+	content: "\e959"
 }
 
 .meks_ess .socicon-pinterest {
@@ -95,7 +95,7 @@
 .outline .socicon-twitter:before,
 .transparent .socicon-twitter span,
 .outline .socicon-twitter span {
-    color: #4da7de;
+    color: #222222;
 }
 .transparent .socicon-pinterest:before,
 .outline .socicon-pinterest:before,
@@ -158,7 +158,7 @@ body .outline .meks_ess-item.socicon-facebook:hover {
 }
 body .outline .meks_ess-item.socicon-twitter,
 body .outline .meks_ess-item.socicon-twitter:hover {
-    border-color: #4da7de;
+    border-color: #222222;
 }
 body .outline .meks_ess-item.socicon-pinterest,
 body .outline .meks_ess-item.socicon-pinterest:hover {
