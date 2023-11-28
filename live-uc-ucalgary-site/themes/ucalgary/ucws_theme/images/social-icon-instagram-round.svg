@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+     viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
+  <path class="background" fill="#ffffff" d="M16,1A15,15,0,1,0,31,16,15,15,0,0,0,16,1Z"/>
+  <path class="icon" fill="#3d3d3d" d="M21.23,7.47H10.77a3.3,3.3,0,0,0-3.3,3.3V21.23a3.3,3.3,0,0,0,3.3,3.3H21.23a3.3,3.3,0,0,0,3.3-3.3V10.77A3.3,3.3,0,0,0,21.23,7.47Zm0.95,2h0.38v2.89H19.67V9.44h2.52Zm-8.61,4.82A3,3,0,1,1,13,16,3,3,0,0,1,13.57,14.25Zm9.3,7a1.63,1.63,0,0,1-1.63,1.63H10.77a1.63,1.63,0,0,1-1.63-1.63v-7h2.55a4.67,4.67,0,1,0,8.64,0h2.55v7Z"/>
+  <path class="border" fill="#3d3d3d" d="M16,31.5C7.45,31.5,0.5,24.55,0.5,16S7.45,0.5,16,0.5S31.5,7.45,31.5,16S24.55,31.5,16,31.5z M16,1.5
+    C8,1.5,1.5,8,1.5,16S8,30.5,16,30.5S30.5,24,30.5,16S24,1.5,16,1.5z"/>
+</svg>
